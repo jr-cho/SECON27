@@ -6,7 +6,7 @@ SoutheastCon 2027 Hardware Competition | Game Manual v2.0 (6/15/2026)
 
 ## Quick Summary
 
-Autonomous robot races 3 laps on a 4x8 ft oval track, makes one pit stop to swap tires, and raises a school flag on the final lap. 3 minute time limit. No external control during the match.
+Autonomous robot races 3 laps on a 4x8 ft oval track, makes one pit stop to swap tires, and raises a school flag on the final lap. 3 minute time limit. No external control during the match. Super cool change
 
 ---
 
